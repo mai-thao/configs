@@ -8,6 +8,7 @@ _Note: this is for MacOS!_
 ### Context
 <pre>
 * Cmd + E                    Recent files
+* Option + Enter             Open Intention action (to perform an action)
 * Fn + Option + F12          Open Terminal window
 </pre>
 
@@ -26,9 +27,9 @@ _Note: this is for MacOS!_
 ### Navigation
 <pre>
 * Cmd + Click                Go to declaration(s) or usage(s)
-* Cmd + [                    Move cursor to previous posistion
-* Cmd + ]                    Move cursor to next posistion
-* Shift + Option + Click     Place multiple cursors at clicked posistion
+* Cmd + [                    Move cursor to previous position
+* Cmd + ]                    Move cursor to next position
+* Shift + Option + Click     Place multiple cursors at clicked position(s)
 </pre>
 
 ### Code Help
